@@ -1,0 +1,13 @@
+h3 {
+    font-size: 30px !important;
+    color: black !important;
+}
+
+canvas {
+    border: 6px black solid;
+}
+
+body {
+    text-align: center;
+    background-color: teal;
+}
